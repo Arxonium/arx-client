@@ -1,0 +1,16 @@
+{
+  "MC-4490": true,
+  "MC-55347": true,
+  "MC-90683": true,
+  "MC-111516": true,
+  "MC-112730": true,
+  "MC-121772": true,
+  "MC-122477": true,
+  "MC-140646": true,
+  "MC-162253": true,
+  "MC-224729": true,
+  "MC-237493": true,
+  "opt_out_updater": true,
+  "gameplay_fixes_in_multiplayer": false,
+  "default_disabled": true
+}
