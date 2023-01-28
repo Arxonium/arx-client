@@ -1,5 +1,5 @@
 # ARX Client
-![Alt-текст](https://github.com/Arxonium/arx-client/blob/main/public/1.png?raw=true "Орк")
+![Alt-текст](https://github.com/Arxonium/arx-client/blob/main/public/1.png?raw=true)
 ## Игровой клиент, что это такое?
 Arx Client - это сборка модов, текстур-паков и шейдеров, сделанная специально для игроков Minecraft.
 ## Каковы особенности нашего клиента?
