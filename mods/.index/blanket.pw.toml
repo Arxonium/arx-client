@@ -1,0 +1,14 @@
+name = "Blanket"
+filename = "Blanket+Client+tweaks-1.1.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6e46fc5d21b3aab7b97570c54d457fd833a98b5b"
+
+[update]
+[update.curseforge]
+file-id = 4174534
+project-id = 565968

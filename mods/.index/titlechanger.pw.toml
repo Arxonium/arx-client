@@ -1,0 +1,14 @@
+name = "TitleChanger"
+filename = "TitleChanger-1.7.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1d50082735078cb97993afed2d70a034f3324d57"
+
+[update]
+[update.curseforge]
+file-id = 4276199
+project-id = 782212

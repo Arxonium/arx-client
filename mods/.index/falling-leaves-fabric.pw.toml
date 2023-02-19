@@ -1,0 +1,14 @@
+name = "Falling Leaves"
+filename = "fallingleaves-1.14.4+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "857349e92489437565fa87c5f7f27c95efaa1d46"
+
+[update]
+[update.curseforge]
+file-id = 4355110
+project-id = 417510

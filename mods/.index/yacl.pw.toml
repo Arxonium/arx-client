@@ -1,0 +1,14 @@
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-2.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "62158cf974075dfd896540191e4ae108e6ec67b3"
+
+[update]
+[update.curseforge]
+file-id = 4260308
+project-id = 667299

@@ -1,0 +1,14 @@
+name = "thorium"
+filename = "thorium-1.4.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "dc5d3176cf60ee669ef0f5ca0fc151cd403aa64a"
+
+[update]
+[update.curseforge]
+file-id = 4162683
+project-id = 577919

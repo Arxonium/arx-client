@@ -1,0 +1,14 @@
+name = "Fogbox"
+filename = "fogbox-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4a40b4b3ff0064e1e1e013cde79e2d4cbb05d6db"
+
+[update]
+[update.curseforge]
+file-id = 3828268
+project-id = 565486

@@ -1,0 +1,14 @@
+name = "LinsAPI"
+filename = "LinsAPI-1.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1c7211189bdc321228327ad5be8c43c2860b3795"
+
+[update]
+[update.curseforge]
+file-id = 4263997
+project-id = 776359

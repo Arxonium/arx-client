@@ -1,0 +1,14 @@
+name = "quickreplant"
+filename = "quickreplant-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QgwydtQc/versions/1.19-1.1.1/quickreplant-1.1.1.jar"
+hash-format = "sha512"
+hash = "6d47ab56ccc4fd9eab7c5d275521e700d74a50cebf497e40517b9d50922d1ec77efbbe73e2436c22f47024634c8dba0e5dc979f20930dfc93891e1d0ea54810e"
+
+[update]
+[update.modrinth]
+mod-id = "QgwydtQc"
+version = "kbjrc3zH"

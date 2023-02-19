@@ -5,7 +5,11 @@
       "priorityDistance": 36
     },
     "65.21.95.76": {
-      "distance": 16,
+      "distance": 8,
+      "priorityDistance": 48
+    },
+    "65.109.65.148": {
+      "distance": 24,
       "priorityDistance": 48
     },
     "127.0.0.1": {
@@ -15,15 +19,15 @@
   },
   "playerVolumes": {},
   "whitelist": false,
-  "voiceVolume": 1.0,
+  "voiceVolume": 2.0,
   "priorityVolume": 1.0,
-  "occlusion": false,
+  "occlusion": true,
   "speakerMuted": false,
   "showIcons": 0,
   "micIconPosition": "BOTTOM_CENTER",
   "voiceActivation": false,
   "voiceActivationThreshold": -30.0,
-  "microphoneAmplification": 1.0,
+  "microphoneAmplification": 2.0,
   "rnNoise": false,
   "microphoneMuted": false,
   "javaxCapture": false,
@@ -37,8 +41,8 @@
   "keyBindings": {
     "pushToTalk": [
       {
-        "type": "KEYSYM",
-        "code": 342
+        "type": "MOUSE",
+        "code": 4
       }
     ],
     "priorityPushToTalk": [],

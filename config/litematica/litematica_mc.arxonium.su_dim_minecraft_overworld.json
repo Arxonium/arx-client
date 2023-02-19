@@ -51,7 +51,7 @@
   "render_range": {
     "mode": "SINGLE_LAYER",
     "axis": "Y",
-    "layer_single": 68,
+    "layer_single": 65,
     "layer_above": 0,
     "layer_below": 0,
     "layer_range_min": 0,

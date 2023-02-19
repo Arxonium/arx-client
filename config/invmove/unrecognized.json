@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_410": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FullScreenListImpl": true,
+    "su.plo.voice.client.gui.VoiceSettingsScreen": true,
+    "cc.cosmetica.cosmetica.screens.LoadingScreen": true,
+    "cc.cosmetica.cosmetica.screens.CustomiseCosmeticsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "cc.cosmetica.cosmetica.screens.SnipeScreen": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_4895": true,
+    "schauweg.smoothswapping.config.ConfigScreen": true
+  },
+  "hideBackground": {
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "net.minecraft.class_4895": true
+  }
+}

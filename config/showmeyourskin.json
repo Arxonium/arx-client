@@ -5,11 +5,11 @@
   "global": {
     "pieces": {
       "CHEST": {
-        "transparency": 0,
+        "transparency": 30,
         "enchantGlint": true
       },
       "FEET": {
-        "transparency": 0,
+        "transparency": 31,
         "enchantGlint": true
       },
       "HEAD": {
@@ -17,7 +17,7 @@
         "enchantGlint": true
       },
       "LEGS": {
-        "transparency": 0,
+        "transparency": 30,
         "enchantGlint": true
       }
     },
@@ -43,30 +43,6 @@
         },
         "LEGS": {
           "transparency": 100,
-          "enchantGlint": true
-        }
-      },
-      "showInCombat": true,
-      "showNameTag": true,
-      "showElytra": true,
-      "showShieldGlint": true
-    },
-    "94bc2064-8af1-39ad-8133-462bd36b1a6f": {
-      "pieces": {
-        "CHEST": {
-          "transparency": 0,
-          "enchantGlint": true
-        },
-        "FEET": {
-          "transparency": 0,
-          "enchantGlint": true
-        },
-        "HEAD": {
-          "transparency": 0,
-          "enchantGlint": true
-        },
-        "LEGS": {
-          "transparency": 0,
           "enchantGlint": true
         }
       },
